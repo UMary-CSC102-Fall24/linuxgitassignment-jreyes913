@@ -6,5 +6,7 @@ Was is your Git username: Jose Reyes
 What is your Github username: jreyes913
 What email did you use for git: jrreyes1@umary.edu
 
+I did this wrong the first time so this sentence is showing I did it as shown in the
+presenation.
 
 %Don't forget to upload an image of your LX terminal setting your username and email
